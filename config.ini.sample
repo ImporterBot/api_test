@@ -1,0 +1,5 @@
+[Config]
+apiServer = <api server url>
+account = <github account>
+repository = <repository>
+authToken = <github token>
